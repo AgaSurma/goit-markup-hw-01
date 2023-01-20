@@ -1,1 +1,1 @@
-https://github.com/AgaSurma/goit-markup-hw-01.git
+https://agasurma.github.io/goit-markup-hw-01/
